@@ -1,0 +1,12 @@
+<!-- esercizio 1: prologo XML -->
+<!-- Codifica di Testi 20/21 -->
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- This document contains data on Codifica di Testi
+Filename: doc.xml
+Nome: Sara 
+Cognome: Seidita
+Numero matricola: 579517
+Date: 15.03.2021
+Github name: Rosmerade
+-->
